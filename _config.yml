@@ -1,29 +1,41 @@
-name: RemindMeAt
-favicon: null
-layout_spectrum: 0.74307
-typography_spectrum: 0.31452
 title: RemindMeAt - Location based notes and reminders
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72900820-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0.6875
   brandColors:
     - '#ffffff'
     - '#bc6000'
     - '#161511'
     - '#e08429'
     - '#bea9a0'
-  brandStrength: 0.25
-  lightness: 0.6875
-  saturation: 0
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-72900820-1
+  facebook: null
+name: RemindMeAt
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.31452
+layout_spectrum: 0.74307
