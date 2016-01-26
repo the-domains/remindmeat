@@ -1,0 +1,28 @@
+name: RemindMeAt
+favicon: null
+layout_spectrum: 0.01340494304895401
+typography_spectrum: 0.9183873122092336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5749506666325033
+  lightness: 0.059999715304002166
+  saturation: 0.49570959247648716
+  rhythmicContrast: 0.8883985022548586
+purpose: []
