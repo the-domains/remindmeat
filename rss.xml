@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RemindMeAt]]></title>
-        <description><![CDATA[RemindMeAt]]></description>
+        <title><![CDATA[RemindMeAt - Location based notes and reminders]]></title>
+        <description><![CDATA[RemindMeAt - Location based notes and reminders]]></description>
         <link>https://thegrid.ai/remindmeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 14:30:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 14:49:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/remindmeat/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Klubben och livescenen kastas ut ur Medborgarhuset i Stockholm</p>]]></description>
-            <link>http://www.dn.se/</link>
-            <guid isPermaLink="false">0206a49e-9581-4d20-bcb6-85dc3e11b65d</guid>
-            <pubDate>Tue, 26 Jan 2016 14:30:36 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Evaluating the Grid]]></title>
             <description><![CDATA[<article><h1>Evaluating the Grid</h1><p>RemindMeAt team is evaluating the Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdeb60b438800f4bda8d65d962b8180d2c43a944.png"></article>]]></description>
