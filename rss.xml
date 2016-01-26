@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RemindMeAt]]></title>
         <description><![CDATA[RemindMeAt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/remindmeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 09:29:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 09:37:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/remindmeat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cecabcd-c375-4262-acfa-df6d0ed372e8.png">]]></description>
-            <link>undefined3c4efbb6-8dcc-4a99-b045-a4af98a25e30/index.html</link>
+            <link>https://thegrid.ai/remindmeat/3c4efbb6-8dcc-4a99-b045-a4af98a25e30/index.html</link>
             <guid isPermaLink="false">3c4efbb6-8dcc-4a99-b045-a4af98a25e30</guid>
-            <pubDate>Tue, 26 Jan 2016 09:29:42 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 09:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
