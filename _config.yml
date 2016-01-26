@@ -2,6 +2,7 @@ name: RemindMeAt
 favicon: null
 layout_spectrum: 0.74307
 typography_spectrum: 0.31452
+title: RemindMeAt - Location based notes and reminders
 cta:
   domain: null
   bucket: null
