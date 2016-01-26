@@ -1,7 +1,7 @@
 name: RemindMeAt
 favicon: null
-layout_spectrum: 0.01340494304895401
-typography_spectrum: 0.9183873122092336
+layout_spectrum: 0.99146
+typography_spectrum: 0.31452
 cta:
   domain: null
   bucket: null
