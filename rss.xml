@@ -4,8 +4,15 @@
         <description><![CDATA[RemindMeAt - Location based notes and reminders]]></description>
         <link>https://thegrid.ai/remindmeat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 22:39:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/remindmeat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Travel and work togther using RemindMeAt]]></title>
+            <description><![CDATA[<article><h1>Travel and work togther using RemindMeAt</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0d58940-63d0-4fbd-ac1d-19099822279c.png"></article>]]></description>
+            <link>https://thegrid.ai/remindmeat/travel-and-work-togther-using-remindmeat/index.html</link>
+            <guid isPermaLink="false">6d8d4839-0031-4b76-b335-94195f06f301</guid>
+            <pubDate>Wed, 27 Jan 2016 22:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Evaluating the Grid]]></title>
             <description><![CDATA[<article><h1>Evaluating the Grid</h1><p>RemindMeAt team is evaluating the Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdeb60b438800f4bda8d65d962b8180d2c43a944.png"></article>]]></description>
